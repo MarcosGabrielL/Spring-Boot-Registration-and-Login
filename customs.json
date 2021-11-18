@@ -1,0 +1,8 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:href": {
+            "context": "a"
+        }
+    }
+}
